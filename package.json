@@ -5,12 +5,11 @@
     "main": "index.js",
     "scripts": {
         "start": "node server.js",
-        "node": "nodemon server",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Miguel Barahona",
     "license": "ISC",
-    "dependencies": {
+    "devDependencies": {
         "express": "^4.17.1",
         "hbs": "^4.0.4"
     }
