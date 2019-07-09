@@ -11,6 +11,7 @@
     "license": "ISC",
     "devDependencies": {
         "express": "^4.17.1",
-        "hbs": "^4.0.4"
+        "hbs": "^4.0.4",
+        "handlebars": ">=4.1.0"
     }
 }
